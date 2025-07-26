@@ -1,5 +1,6 @@
 # 📊 Excel Sales Performance Dashboard
 
+![image alt](https://github.com/Ayan-baksi/Sales-performance-dashboard-Excel-/blob/main/Sales_Performence_Dashboard.png?raw=true)
 Welcome to the **Sales Performance Dashboard Project**, a comprehensive and interactive Excel-based business intelligence solution designed to track and analyze the performance of sales executives across different regions in India.
 
 This project demonstrates the power of Excel for data analysis and dashboard creation — ideal for small and medium-sized businesses that need performance insights without using advanced BI tools like Power BI or Tableau.
@@ -69,5 +70,7 @@ This dashboard can be used by:
 
 ---
 
-## 📁 File Structure
+
+
+
 
